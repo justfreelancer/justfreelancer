@@ -1,8 +1,5 @@
 Hi there 👋 I'm Te0
 
-
-**justfreelancer/justfreelancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a Developer, and Entrepreneur!
 
 - 🔭 I’m currently working on PHP
