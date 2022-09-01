@@ -1,4 +1,4 @@
-Hi there 👋 I'm Te0
+Hi there 👋 I'm Teo
 
 I'm a Developer, and Entrepreneur!
 
